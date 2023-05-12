@@ -1,0 +1,12 @@
+{
+    "ID": "75894EA334FA4C10AC16E28BC4616C4A",
+    "ActionKeyword": "ck",
+    "Name": "CkFlow",
+    "Description": "Plugin to check internet access and get the speed of download and upload",
+    "Author": "Ahmed ElSaeed",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/asmpro7/CkFlow",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
